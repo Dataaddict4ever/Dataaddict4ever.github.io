@@ -9,5 +9,5 @@ This is content for CBTA assignment:
 
 -[Time Series](/timeseries/index.md)
 
-This a repository
+This is a sample repository
 -[Sample](https://github.com/Dataaddict4ever/Sample2)
