@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Data Slayer
+description: Data exist to be analyzed, processed, and used to create answers. 
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
